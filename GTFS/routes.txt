@@ -1,2 +1,5 @@
 route_id,route_short_name,route_long_name,route_type
-1,,Sweetwater Trolley,3
+A,Green Route,”The “”1”” route travels from Griffing Center/Park to 7th Ave Flea Market”,3
+B,Orange Route,”The “”2”” route travels from Griffing Center/Park to NE6AVE & NE 124ST - President Supermarket”,3
+C,Blue Route,”The “”3”” route travels from Griffing Center/Park to NE 8AVE & 125 ST - City Hall”,3
+D,Red Route,”The “”4”” route travels from Biscayne BLVD & NE 128 ST - Publix to Biscayne BLVD & 130 ST - Enchanted Forest Park”,3

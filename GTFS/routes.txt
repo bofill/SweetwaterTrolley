@@ -1,5 +1,5 @@
 route_id,route_short_name,route_long_name,route_type
-A,Green Route,”Route Green travels from Griffing Center/Park to 7th Ave Flea Market”,3
-B,Orange Route,”Route Orange travels from Griffing Center/Park to NE6AVE & NE 124ST - President Supermarket”,3
-C,Blue Route,”Route Blue travels from Griffing Center/Park to NE 8AVE & 125 ST - City Hall”,3
-D,Red Route,”Route Red travels from Biscayne BLVD & NE 128 ST - Publix to Biscayne BLVD & 130 ST - Enchanted Forest Park”,3
+A,,Green Route,North Miami Green Route,3
+B,,Orange Route,North Miami Orange Route,3
+C,,Blue Route,North Miami Blue Route,3
+D,,Red Route,North Miami Red Route,3
